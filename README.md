@@ -1,14 +1,5 @@
 # Adote um Amigo 🐾
 
-## Índice
-1. [Introdução](#introdução)
-2. [Estrutura do Projeto](#estrutura-do-projeto)
-3. [Detalhamento dos Arquivos](#detalhamento-dos-arquivos)
-4. [Funcionalidades](#funcionalidades)
-5. [Estilização](#estilização)
-6. [JavaScript](#javascript)
-7. [Execução do Projeto](#execução-do-projeto)
-
 ## Introdução
 
 O projeto "Adote um Amigo 🐾" é um site de adoção de animais, onde usuários podem visualizar e filtrar animais (cães e gatos) disponíveis para adoção. O objetivo é facilitar a busca e ajudar a encontrar o animal ideal para adoção, promovendo uma experiência simples e intuitiva para os usuários.
