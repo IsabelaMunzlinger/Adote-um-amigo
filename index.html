@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/png" sizes="32x32" href="imagens/favicon.ico">
+    <title>Adote um Amigo 🐾</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Adote um Amigo</h1>
+    </header>
+    
+    <main>
+        <section class="categorias">
+            <div class="categoria" id="filterCaes">
+                <img src="imagens/cachorro marrom e braco.avif" alt="Cães">
+                <p>Cães</p>
+            </div>
+            <div class="categoria" id="filterGatos">
+                <img src="imagens/gato.avif" alt="Gatos">
+                <p>Gatos</p>
+            </div>
+        </section>
+
+        <nav>
+            <input type="text" id="searchInput" placeholder="Pesquisar por raça, gênero, idade ou descrição">
+        </nav>
+
+        <section class="animais" id="animalList">
+            <!-- Os animais serão renderizados aqui pelo script -->
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Adote um Amigo</p>
+    </footer>
+
+    <script src="dados.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
